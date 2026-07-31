@@ -1,0 +1,25 @@
+{
+  "guacamoleVersion": "1.6.0",
+  "name": "Raizen Branding",
+  "namespace": "raizen-branding",
+
+  "css": [
+    "css/custom.css"
+  ],
+
+  "js": [
+    "js/branding.js",
+    "js/login.js"
+  ],
+
+  "translations": [
+    "translations/pt.json",
+    "translations/en.json"
+  ],
+
+  "resources": {
+    "images/logo.png": "image/png",
+    "images/background.jpg": "image/jpeg",
+    "images/favicon.ico": "image/x-icon"
+  }
+}

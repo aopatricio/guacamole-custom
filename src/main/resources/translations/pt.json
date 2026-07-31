@@ -1,0 +1,15 @@
+{
+    "APP": {
+        "NAME": ""
+    },
+
+    "LOGIN": {
+
+        "FIELD_HEADER_USERNAME": "Nome de usuário",
+
+        "FIELD_HEADER_PASSWORD": "Senha",
+
+        "ACTION_LOGIN": "Faça login"
+
+    }
+}
